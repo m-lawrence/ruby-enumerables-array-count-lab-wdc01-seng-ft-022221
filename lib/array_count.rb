@@ -2,7 +2,6 @@ def count_strings(array)
   i = 0 
   while i < array.count do |element|
     element.any?(String)
-  end
 end
 end
 
