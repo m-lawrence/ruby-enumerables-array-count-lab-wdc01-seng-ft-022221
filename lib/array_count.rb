@@ -1,6 +1,6 @@
 def count_strings(array)
   i = 0 
-  while i < array.count.is_a?(String)
+  while i < array.count.kind_of?(String)
 end
 end
 
