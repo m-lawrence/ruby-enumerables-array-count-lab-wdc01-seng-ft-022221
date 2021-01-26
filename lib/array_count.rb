@@ -1,6 +1,6 @@
 def count_strings(array)
   i = 0 
-  while i < array.count.instance_of?(String)
+  while i < array.count(String)
 end
 end
 
