@@ -6,6 +6,6 @@ end
 
 def count_empty_strings(array)
   array.count do |element|
-    element.find("")
+    element.find_all("")
   end
 end
