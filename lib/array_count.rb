@@ -1,6 +1,6 @@
 def count_strings(array)
   i = 0 
-  while i < array.count do |element|
+  while i < array.count 
     array[i] == String
 end
 end
